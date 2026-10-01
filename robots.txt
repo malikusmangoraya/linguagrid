@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linguagrid.com/sitemap.xml
